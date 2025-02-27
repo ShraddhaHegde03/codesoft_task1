@@ -15,7 +15,7 @@ A simple command-line **Number Guessing Game** in Java where the user tries to g
 git clone https://github.com/ShraddhaHegde03/codesoft_task1.git
 cd codesoft_task1
 
-🎮 How to Play
+## 🎮 How to Play
 The program will generate a random number between 1 and 100.
 You have 10 attempts to guess the correct number.
 After each guess, you'll receive feedback:
